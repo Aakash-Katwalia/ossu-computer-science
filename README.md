@@ -88,10 +88,10 @@ just remember that you can't purchase success!
 # Curriculum
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
-
+start date: 02/07/24
 - [x] [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
-  - In Progress [Introduction to Programming](#introduction-to-programming)
+  - In Progress [Introduction to Programming](#introduction-to-programming) start date: 02/07/24 ; end date: 
   - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
