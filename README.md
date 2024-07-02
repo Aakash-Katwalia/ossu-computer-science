@@ -88,6 +88,7 @@ just remember that you can't purchase success!
 # Curriculum
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
+
 start date: 02/07/24
 - [x] [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
